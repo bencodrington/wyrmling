@@ -1,0 +1,10 @@
+* {
+    background: black;
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+}

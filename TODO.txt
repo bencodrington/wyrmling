@@ -1,0 +1,33 @@
+Food/toasting causes exp and then level up
+Level 1: Faster lateral movement speed, higher jump
+Level 2: Evolve! Can jump and hover
+Level 3: Sparks
+Level 4: Evolve! Now flies and can breathe fire
+Level 5: 
+
+Camped humans see you coming and start to run away
+Birds' nests with eggs and birds that fly away
+Wolves that chase you
+Soldiers that stand and slash at you
+Wizards that cast spells
+
+Spawner spawns camps every so often
+    camps spawn people (1-3)
+Spawner spawns nests every so often
+    nests spawn birds (0-2)
+
+More people that are eaten = more soldiers/wizards to fight/avoid
+
+-egg hatching animation
+-loading gif
+-leveling
+-music
+-moving background
+-enemies
+    -soldiers
+    -wizards
+-dragon speed should affect spawn timer and background scrolling
+-tree variations
+-fire sparks
+-evolution
+-splash screen
